@@ -33,11 +33,4 @@ React continues to evolve and improve as a library for building user interfaces.
 
 React has come a long way since its inception in 2011. It has revolutionized the way we build user interfaces for the web and beyond. It has also created a vibrant and diverse community of developers who contribute to its development and innovation. React is not only a library, but also a philosophy and a culture that values simplicity, composition, and user experience.
 
-I hope you enjoyed this article about the history of React. If you want to learn more about React, you can check out some of these resources:
-
-
-
-* [The official website](https://en.wikipedia.org/wiki/React_%28software%29) of React
-* [The official documentation](https://blog.risingstack.com/the-history-of-react-js-on-a-timeline) of React
-* [The official blog](https://tutorialsinhand.com/tutorials/reactjs-tutorial/react-with-typescript/history-and-use-of-react.aspx) of React
-* [The official tutorial](https://www.mygreatlearning.com/react-js/tutorials/history-of-reactjs) of React
+I hope you enjoyed this article about the history of React. 
